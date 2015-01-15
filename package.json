@@ -1,0 +1,23 @@
+{
+  "name": "fang",
+  "version": "0.0.1",
+  "description": "fang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/fang.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "fang"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/fang/issues"
+  }
+}
